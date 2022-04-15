@@ -24,3 +24,4 @@ hs_err_pid*
 
 #IntelliJ Generated Folders
 .idea
+.DS_store
